@@ -1,5 +1,7 @@
 # Consul [![Build Status](https://travis-ci.org/hashicorp/consul.png)](https://travis-ci.org/hashicorp/consul)
 
+test
+
 * Website: http://www.consul.io
 * IRC: `#consul` on Freenode
 * Mailing list: [Google Groups](https://groups.google.com/group/consul-tool/)
